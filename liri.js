@@ -12,6 +12,11 @@ if (command === "spotify-this-song") {
         if(err) {
             return console.log("error has occured " + err)
         }
-        console.log(response.tracks.items[0].album)
+        var data = response.tracks.items[0] 
+        console.log("Artist: " + data.album.artists[0].name)
+        console.log("Song Name: " + data.name)
+        console.log(data.album.preview_url)
+        console.log("Album: " + data.album.name)
+        
     })
 }
