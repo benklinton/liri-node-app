@@ -4,7 +4,7 @@ Liri is a lightweight Nodejs application that is much like Siri but minus all th
 
 # How On Earth Does it Work
 
-Liri is simple to use. In fact it was so simple that our beta testers of untrained walruses had a grasp on how to use it well before they were blasted off into the icy void of space.
+Liri is simple to use. In fact it was so simple that our beta testers of untrained walruses had a grasp on how to use it well before they were set free into the wilds of our planets ever melting ice caps.
 Liri utilizes a command line interface, (that means more typing for you normal non nerdy people) the 3 main commands you must know to use Liri are:
 
     spotify-this-song
@@ -19,7 +19,7 @@ Liri utilizes a command line interface, (that means more typing for you normal n
 
   # movie-this
 
-  This command uses the OMDB API to display all sorts of magical triva you though you would never need to know about any movie you wish you'd never seen. The walruses seemed to not have a problem with this so neither should you... moving on
+  This command uses the OMDB API to display all sorts of magical triva you would never need to know about any movie you wish you'd never seen. The walruses seemed to not have a problem with this so neither should you... moving on
 
   # concert-this
 
