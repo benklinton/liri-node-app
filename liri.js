@@ -40,6 +40,6 @@ if (command === "movie-this") {
 if (command === "concert-this") {
     axios.get("https://rest.bandsintown.com/artists/" + input + "/events?app_id=codingbootcamp").then(
         function (response) {
-    console.log(response)
+    console.log(response.data)
 })
 }
